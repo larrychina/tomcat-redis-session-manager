@@ -115,4 +115,4 @@ To get the example server up and running, you'll need to do the following: 1. Do
 
 Acknowledgements
 
-The architecture of this project was based on the Mongo-Tomcat-Sessions project found at https://github.com/dawsonsystems/Mongo-Tomcat-Sessions
+The architecture of this project was based on the Mongo-Tomcat-Sessions project found at https://github.com/larrychina/tomcat-redis-session-manager/
